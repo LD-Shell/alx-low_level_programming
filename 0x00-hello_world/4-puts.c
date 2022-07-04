@@ -1,5 +1,9 @@
 #include <stdio.h>
-/*header file standard input-output import*/
+/**
+ * main - Entry point
+ *Description: print text using puts fuction
+ *Return 0
+ */
 int main(void)
 {
 	char str[] = "\"Programming is like building a multilingual puzzle";
